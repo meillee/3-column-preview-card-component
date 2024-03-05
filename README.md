@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://3-column-preview-card-component-ivory-xi.vercel.app/)
+- Live Site URL: (https://meillee.github.io/3-column-preview-card-component/)
 
 ## My process
 

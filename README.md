@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://meillee.github.io/3-column-preview-card-component/)
+- Live Site URL: (https://meillee.github.io/3-column-preview-card-component/){:target="_blank"}
 
 ## My process
 
